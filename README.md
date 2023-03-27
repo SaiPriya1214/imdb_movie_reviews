@@ -1,4 +1,4 @@
-# imdb_movie_reviews
-Sentiment analysis on movie reviews using LSTM
+Code in progress
 
+- Code modified
 - Trying a new model to check if accuracy can be further improved.
